@@ -8,7 +8,7 @@ The results are then evaluated based on several interest measures (lift, IR, Kul
 
 The objectives of the study are the following:
 - to obtain association rules and analyze them for better decision support,
-better understanding of data, or increasing company prot using
+better understanding of data, or increasing company profit using
 the Apriori Algorithm and FP-Growth Algorithm
 - to analyze association rules based on relevance, interestingness, and
 correlation, and use lift, Imbalance Ratio (IR), and Kulczynski (Kulc)
