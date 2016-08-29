@@ -1,4 +1,4 @@
-# Association-Rule-Mining
+# Market Basket Analysis using Association Rule Mining
 
 Mining association rules and frequent item sets allows for the discovery of interesting and useful connections or relationships between items.
 
