@@ -1,0 +1,232 @@
+heineken , hering cracker,1.35293l
+heineken , bourbon olives cracker,1.38816l
+cracker , bourbon olives heineken,1.68108l
+heineken , baguette cracker,1.36671l
+heineken , baguette hering,1.43383l
+hering , baguette heineken,1.68877l
+heineken , baguette hering cracker,1.62923l
+hering , baguette cracker heineken,1.77558l
+hering , corned_b olives,1.7555l
+olives , corned_b hering,1.74485l
+heineken , avocado cracker,1.46363l
+heineken , avocado baguette hering,1.55103l
+hering , avocado baguette heineken,1.81556l
+baguette , avocado hering heineken,2.26772l
+heineken , soda,1.34831l
+heineken , soda cracker,1.55534l
+cracker , soda heineken,1.86766l
+heineken , soda hering,1.42863l
+heineken , soda hering cracker,1.621l
+cracker , soda hering heineken,1.88603l
+soda , hering cracker heineken,2.6457l
+cracker , soda hering,1.6622l
+heineken , soda olives cracker,1.61537l
+cracker , soda olives heineken,1.97047l
+soda , olives cracker heineken,2.74308l
+heineken , soda bourbon,1.33467l
+heineken , soda bourbon cracker,1.48433l
+cracker , soda bourbon heineken,2.0016l
+soda , bourbon cracker heineken,2.52241l
+cracker , soda bourbon,1.79979l
+heineken , soda bourbon olives,1.43961l
+olives , soda bourbon heineken,1.82614l
+bourbon , soda olives heineken,2.09271l
+soda , bourbon olives heineken,2.53244l
+heineken , soda bourbon olives cracker,1.63744l
+cracker , soda bourbon olives heineken,2.03206l
+olives , soda bourbon cracker heineken,1.85393l
+bourbon , soda olives cracker heineken,2.15812l
+soda , bourbon olives cracker heineken,3.06116l
+cracker , soda bourbon olives,1.78655l
+bourbon , soda olives cracker,2.12903l
+soda , bourbon olives cracker,2.59513l
+olives , soda bourbon,1.69302l
+heineken , soda baguette,1.50477l
+heineken , soda baguette cracker,1.6552l
+cracker , soda baguette heineken,1.87286l
+soda , baguette cracker heineken,2.73533l
+cracker , soda baguette,1.70265l
+heineken , soda baguette hering,1.62953l
+hering , soda baguette heineken,1.88057l
+baguette , soda hering heineken,2.1594l
+heineken , soda baguette hering cracker,1.66833l
+cracker , soda baguette hering heineken,1.87215l
+hering , soda baguette cracker heineken,1.87986l
+baguette , soda hering cracker heineken,2.14351l
+soda , baguette hering cracker heineken,2.89597l
+cracker , soda baguette hering,1.82862l
+hering , soda baguette cracker,1.86506l
+baguette , soda hering cracker,2.0827l
+soda , baguette hering cracker,2.8281l
+hering , soda baguette,1.73659l
+bourbon , chicken corned_b cracker,2.28713l
+corned_b , chicken bourbon cracker,2.10699l
+chicken , corned_b bourbon cracker,2.63869l
+hering , apples corned_b olives,1.93538l
+olives , apples corned_b hering,2.04137l
+corned_b , apples olives hering,2.44782l
+baguette , apples avocado,2.05755l
+heineken , ice_crea chicken,1.41808l
+heineken , ham cracker,1.4014l
+hering , ham corned_b olives,1.97594l
+olives , ham corned_b hering,2.03025l
+corned_b , ham olives hering,2.49663l
+heineken , ham avocado,1.41446l
+heineken , ham avocado cracker,1.60478l
+cracker , ham avocado heineken,1.77072l
+avocado , ham cracker heineken,2.21044l
+heineken , artichok,1.37843l
+heineken , artichok cracker,1.53019l
+heineken , artichok hering,1.38142l
+heineken , artichok baguette,1.52004l
+heineken , artichok baguette hering,1.62519l
+hering , artichok baguette heineken,1.89222l
+baguette , artichok hering heineken,2.21964l
+hering , artichok baguette,1.76979l
+heineken , artichok avocado,1.57345l
+heineken , artichok avocado cracker,1.65357l
+heineken , artichok avocado hering,1.6113l
+avocado , artichok hering heineken,2.39697l
+artichok , avocado hering heineken,2.76763l
+heineken , artichok avocado baguette,1.54917l
+avocado , artichok baguette heineken,2.33161l
+hering , artichok avocado baguette heineken,1.96065l
+baguette , artichok avocado hering heineken,2.2372l
+avocado , artichok baguette hering heineken,2.41593l
+artichok , avocado baguette hering heineken,2.73038l
+hering , artichok avocado baguette,1.8206l
+baguette , artichok avocado hering,2.16071l
+avocado , artichok baguette hering,2.35345l
+avocado , artichok baguette,2.28777l
+heineken , artichok ham,1.47283l
+heineken , artichok ham cracker,1.65182l
+cracker , artichok ham heineken,1.81525l
+heineken , artichok ham avocado,1.63881l
+avocado , artichok ham heineken,2.70877l
+artichok , ham avocado heineken,3.11366l
+cracker , artichok ham avocado heineken,1.82947l
+ham , artichok avocado cracker heineken,2.90102l
+artichok , ham avocado cracker heineken,3.21698l
+cracker , artichok ham avocado,1.79709l
+avocado , artichok ham cracker,2.70297l
+ham , artichok avocado cracker,2.87535l
+artichok , ham avocado cracker,3.09443l
+avocado , artichok ham,2.43442l
+artichok , ham avocado,2.68741l
+heineken , sardines chicken,1.4706l
+apples , sardines avocado baguette,2.90383l
+sardines , apples avocado baguette,2.77787l
+heineken , sardines ice_crea,1.35897l
+heineken , sardines ice_crea chicken,1.66833l
+chicken , sardines ice_crea heineken,2.99693l
+ice_crea , sardines chicken heineken,3.11746l
+sardines , ice_crea chicken heineken,3.2965l
+ice_crea , sardines chicken,2.74798l
+sardines , ice_crea chicken,2.80203l
+heineken , coke chicken,1.41628l
+olives , coke ice_crea bourbon,1.75452l
+bourbon , coke ice_crea olives,2.11347l
+ice_crea , coke bourbon olives,2.846l
+coke , ice_crea bourbon olives,3.03732l
+ice_crea , coke bourbon,2.67268l
+coke , ice_crea bourbon,2.72873l
+heineken , coke ice_crea chicken,1.57339l
+chicken , coke ice_crea heineken,2.65196l
+ice_crea , coke chicken heineken,3.14388l
+coke , ice_crea chicken heineken,3.2965l
+ice_crea , coke chicken,2.82996l
+coke , ice_crea chicken,2.97111l
+heineken , coke sardines,1.3619l
+heineken , coke sardines chicken,1.65407l
+chicken , coke sardines heineken,3.07185l
+sardines , coke chicken heineken,3.32444l
+coke , sardines chicken heineken,3.2965l
+sardines , coke chicken,2.84651l
+coke , sardines chicken,2.93086l
+heineken , coke sardines ice_crea,1.47875l
+ice_crea , coke sardines heineken,3.11813l
+sardines , coke ice_crea heineken,2.84651l
+coke , sardines ice_crea heineken,3.21679l
+heineken , coke sardines ice_crea chicken,1.66833l
+chicken , coke sardines ice_crea heineken,3.15062l
+ice_crea , coke sardines chicken heineken,3.19808l
+sardines , coke ice_crea chicken heineken,3.38176l
+coke , sardines ice_crea chicken heineken,3.38176l
+chicken , coke sardines ice_crea,2.79259l
+ice_crea , coke sardines chicken,3.17075l
+sardines , coke ice_crea chicken,3.1893l
+coke , sardines ice_crea chicken,3.38176l
+ice_crea , coke sardines,2.87175l
+coke , sardines ice_crea,2.95624l
+bourbon , peppers corned_b cracker,2.26471l
+peppers , corned_b bourbon cracker,2.80807l
+baguette , peppers avocado,2.06718l
+cracker , peppers chicken bourbon,1.90907l
+chicken , peppers bourbon cracker,2.55309l
+peppers , chicken bourbon cracker,2.81314l
+bourbon , peppers chicken,2.02315l
+chicken , peppers corned_b cracker,2.86623l
+peppers , chicken corned_b cracker,3.08041l
+corned_b , peppers chicken bourbon,2.33197l
+apples , peppers avocado baguette,2.87536l
+peppers , apples avocado baguette,2.77787l
+sardines , peppers avocado baguette,3.01706l
+peppers , sardines avocado baguette,3.04693l
+olives , turkey hering,1.72124l
+olives , turkey bourbon,1.91977l
+hering , turkey corned_b,1.73689l
+hering , turkey corned_b olives,1.89085l
+olives , turkey corned_b hering,2.09755l
+corned_b , turkey olives hering,2.35026l
+olives , turkey corned_b,1.92676l
+olives , turkey ice_crea,1.86434l
+bourbon , turkey ice_crea olives,2.14821l
+turkey , ice_crea bourbon olives,3.14409l
+hering , turkey ham olives,1.75327l
+olives , turkey ham hering,2.05638l
+ham , turkey olives hering,2.77084l
+turkey , ham olives hering,3.01092l
+olives , turkey ham,1.91097l
+hering , turkey ham corned_b,2.00082l
+corned_b , turkey ham hering,2.46349l
+ham , turkey corned_b hering,2.96248l
+turkey , ham corned_b hering,2.93321l
+hering , turkey ham corned_b olives,2.02006l
+olives , turkey ham corned_b hering,2.11628l
+corned_b , turkey ham olives hering,2.53525l
+ham , turkey corned_b olives hering,2.98893l
+turkey , ham corned_b olives hering,3.0575l
+olives , turkey ham corned_b,2.09612l
+corned_b , turkey ham olives,2.20042l
+ham , turkey corned_b olives,2.79774l
+turkey , ham corned_b olives,2.99072l
+olives , turkey coke,1.86731l
+bourbon , turkey coke olives,2.24731l
+turkey , coke bourbon olives,3.0828l
+bourbon , turkey coke,2.04554l
+olives , turkey coke ice_crea,1.89667l
+ice_crea , turkey coke olives,2.8935l
+coke , turkey ice_crea olives,2.8943l
+turkey , coke ice_crea olives,2.94759l
+bourbon , turkey coke ice_crea,2.24954l
+turkey , coke ice_crea bourbon,2.90224l
+ice_crea , turkey coke,2.84871l
+coke , turkey ice_crea,2.84497l
+hering , steak corned_b,1.74995l
+hering , steak corned_b olives,2.02256l
+olives , steak corned_b hering,2.04137l
+corned_b , steak olives hering,2.40561l
+olives , steak corned_b,1.76622l
+hering , steak apples,1.72803l
+apples , steak olives hering,2.66574l
+steak , apples olives hering,3.75211l
+olives , steak apples,1.77552l
+hering , steak apples corned_b,1.95871l
+apples , steak corned_b hering,2.73651l
+steak , apples corned_b hering,3.78531l
+apples , steak corned_b olives hering,2.83694l
+steak , apples corned_b olives hering,3.92422l
+olives , steak apples corned_b,2.01254l
+apples , steak corned_b olives,2.78582l
+steak , apples corned_b olives,3.68741l
+corned_b , steak apples,2.21297l

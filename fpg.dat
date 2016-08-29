@@ -1,0 +1,232 @@
+heineken , hering cracker ,20.0799, 81.0945
+heineken , bourbon olives cracker ,13.0869, 83.2061
+cracker , bourbon olives heineken ,13.2867, 81.9549
+heineken , baguette cracker ,17.6823, 81.9209
+heineken , baguette hering ,24.8751, 85.9438
+hering , baguette heineken ,26.0739, 81.9923
+heineken , baguette hering cracker ,12.7872, 97.6562
+hering , baguette cracker heineken ,14.4855, 86.2069
+hering , corned_b olives ,23.6763, 85.2321
+olives , corned_b hering ,24.4755, 82.449
+heineken , avocado cracker ,16.2837, 87.7301
+heineken , avocado baguette hering ,12.7872, 92.9688
+hering , avocado baguette heineken ,13.4865, 88.1481
+baguette , avocado hering heineken ,13.3866, 88.806
+heineken , soda ,31.7682, 80.8176
+heineken , soda cracker ,25.0749, 93.2271
+cracker , soda heineken ,25.6743, 91.0506
+heineken , soda hering ,17.3826, 85.6322
+heineken , soda hering cracker ,14.0859, 97.1631
+cracker , soda hering heineken ,14.8851, 91.9463
+soda , hering cracker heineken ,16.2837, 84.0491
+cracker , soda hering ,17.3826, 81.0345
+heineken , soda olives cracker ,12.5874, 96.8254
+cracker , soda olives heineken ,12.6873, 96.063
+soda , olives cracker heineken ,13.986, 87.1429
+heineken , soda bourbon ,15.4845, 80
+heineken , soda bourbon cracker ,13.5864, 88.9706
+cracker , soda bourbon heineken ,12.3876, 97.5806
+soda , bourbon cracker heineken ,15.0849, 80.1325
+cracker , soda bourbon ,15.4845, 87.7419
+heineken , soda bourbon olives ,12.3876, 86.2903
+olives , soda bourbon heineken ,12.3876, 86.2903
+bourbon , soda olives heineken ,12.6873, 84.252
+soda , bourbon olives heineken ,13.2867, 80.4511
+heineken , soda bourbon olives cracker ,10.7892, 98.1481
+cracker , soda bourbon olives heineken ,10.6893, 99.0654
+olives , soda bourbon cracker heineken ,12.0879, 87.6033
+bourbon , soda olives cracker heineken ,12.1878, 86.8852
+soda , bourbon olives cracker heineken ,10.8891, 97.2477
+cracker , soda bourbon olives ,12.3876, 87.0968
+bourbon , soda olives cracker ,12.5874, 85.7143
+soda , bourbon olives cracker ,13.0869, 82.4427
+olives , soda bourbon ,15.4845, 80
+heineken , soda baguette ,15.2847, 90.1961
+heineken , soda baguette cracker ,12.6873, 99.2126
+cracker , soda baguette heineken ,13.7862, 91.3043
+soda , baguette cracker heineken ,14.4855, 86.8966
+cracker , soda baguette ,15.2847, 83.0065
+heineken , soda baguette hering ,12.8871, 97.6744
+hering , soda baguette heineken ,13.7862, 91.3043
+baguette , soda hering heineken ,14.8851, 84.5638
+heineken , soda baguette hering cracker ,11.4885, 100
+cracker , soda baguette hering heineken ,12.5874, 91.2698
+hering , soda baguette cracker heineken ,12.5874, 91.2698
+baguette , soda hering cracker heineken ,13.6863, 83.9416
+soda , baguette hering cracker heineken ,12.4875, 92
+cracker , soda baguette hering ,12.8871, 89.1473
+hering , soda baguette cracker ,12.6873, 90.5512
+baguette , soda hering cracker ,14.0859, 81.5603
+soda , baguette hering cracker ,12.7872, 89.8438
+hering , soda baguette ,15.2847, 84.3137
+bourbon , chicken corned_b cracker ,10.0899, 92.0792
+corned_b , chicken bourbon cracker ,11.2887, 82.3009
+chicken , corned_b bourbon cracker ,11.1888, 83.0357
+hering , apples corned_b olives ,11.5884, 93.9655
+olives , apples corned_b hering ,11.2887, 96.4602
+corned_b , apples olives hering ,11.3886, 95.614
+baguette , apples avocado ,13.8861, 80.5755
+heineken , ice_crea chicken ,13.986, 85
+heineken , ham cracker ,14.985, 84
+hering , ham corned_b olives ,12.2877, 95.935
+olives , ham corned_b hering ,12.2877, 95.935
+corned_b , ham olives hering ,12.0879, 97.5207
+heineken , ham avocado ,13.7862, 84.7826
+heineken , ham avocado cracker ,10.4895, 96.1905
+cracker , ham avocado heineken ,11.6883, 86.3248
+avocado , ham cracker heineken ,12.5874, 80.1587
+heineken , artichok ,30.4695, 82.623
+heineken , artichok cracker ,15.6843, 91.7197
+heineken , artichok hering ,15.6843, 82.8025
+heineken , artichok baguette ,13.4865, 91.1111
+heineken , artichok baguette hering ,11.5884, 97.4138
+hering , artichok baguette heineken ,12.2877, 91.8699
+baguette , artichok hering heineken ,12.987, 86.9231
+hering , artichok baguette ,13.4865, 85.9259
+heineken , artichok avocado ,21.0789, 94.3128
+heineken , artichok avocado cracker ,11.2887, 99.115
+heineken , artichok avocado hering ,11.6883, 96.5812
+avocado , artichok hering heineken ,12.987, 86.9231
+artichok , avocado hering heineken ,13.3866, 84.3284
+heineken , artichok avocado baguette ,11.1888, 92.8571
+avocado , artichok baguette heineken ,12.2877, 84.5528
+hering , artichok avocado baguette heineken ,10.3896, 95.1923
+baguette , artichok avocado hering heineken ,11.2887, 87.6106
+avocado , artichok baguette hering heineken ,11.2887, 87.6106
+artichok , avocado baguette hering heineken ,11.8881, 83.1933
+hering , artichok avocado baguette ,11.1888, 88.3929
+baguette , artichok avocado hering ,11.6883, 84.6154
+avocado , artichok baguette hering ,11.5884, 85.3448
+avocado , artichok baguette ,13.4865, 82.963
+heineken , artichok ham ,12.7872, 88.2812
+heineken , artichok ham cracker ,10.0899, 99.0099
+cracker , artichok ham heineken ,11.2887, 88.4956
+heineken , artichok ham avocado ,11.2887, 98.2301
+avocado , artichok ham heineken ,11.2887, 98.2301
+artichok , ham avocado heineken ,11.6883, 94.8718
+cracker , artichok ham avocado heineken ,11.0889, 89.1892
+ham , artichok avocado cracker heineken ,11.1888, 88.3929
+artichok , ham avocado cracker heineken ,10.0899, 98.0198
+cracker , artichok ham avocado ,11.2887, 87.6106
+avocado , artichok ham cracker ,10.0899, 98.0198
+ham , artichok avocado cracker ,11.2887, 87.6106
+artichok , ham avocado cracker ,10.4895, 94.2857
+avocado , artichok ham ,12.7872, 88.2812
+artichok , ham avocado ,13.7862, 81.8841
+heineken , sardines chicken ,13.4865, 88.1481
+apples , sardines avocado baguette ,10.0899, 91.0891
+sardines , apples avocado baguette ,11.1888, 82.1429
+heineken , sardines ice_crea ,15.0849, 81.457
+heineken , sardines ice_crea chicken ,11.5884, 100
+chicken , sardines ice_crea heineken ,12.2877, 94.3089
+ice_crea , sardines chicken heineken ,11.8881, 97.479
+sardines , ice_crea chicken heineken ,11.8881, 97.479
+ice_crea , sardines chicken ,13.4865, 85.9259
+sardines , ice_crea chicken ,13.986, 82.8571
+heineken , coke chicken ,13.8861, 84.8921
+olives , coke ice_crea bourbon ,11.6883, 82.906
+bourbon , coke ice_crea olives ,11.3886, 85.0877
+ice_crea , coke bourbon olives ,10.8891, 88.9908
+coke , ice_crea bourbon olives ,10.7892, 89.8148
+ice_crea , coke bourbon ,13.986, 83.5714
+coke , ice_crea bourbon ,14.4855, 80.6897
+heineken , coke ice_crea chicken ,12.2877, 94.3089
+chicken , coke ice_crea heineken ,13.8861, 83.4532
+ice_crea , coke chicken heineken ,11.7882, 98.3051
+coke , ice_crea chicken heineken ,11.8881, 97.479
+ice_crea , coke chicken ,13.8861, 88.4892
+coke , ice_crea chicken ,13.986, 87.8571
+heineken , coke sardines ,14.6853, 81.6327
+heineken , coke sardines chicken ,11.6883, 99.1453
+chicken , coke sardines heineken ,11.988, 96.6667
+sardines , coke chicken heineken ,11.7882, 98.3051
+coke , sardines chicken heineken ,11.8881, 97.479
+sardines , coke chicken ,13.8861, 84.1727
+coke , sardines chicken ,13.4865, 86.6667
+heineken , coke sardines ice_crea ,13.1868, 88.6364
+ice_crea , coke sardines heineken ,11.988, 97.5
+sardines , coke ice_crea heineken ,13.8861, 84.1727
+coke , sardines ice_crea heineken ,12.2877, 95.122
+heineken , coke sardines ice_crea chicken ,11.5884, 100
+chicken , coke sardines ice_crea heineken ,11.6883, 99.1453
+ice_crea , coke sardines chicken heineken ,11.5884, 100
+sardines , coke ice_crea chicken heineken ,11.5884, 100
+coke , sardines ice_crea chicken heineken ,11.5884, 100
+chicken , coke sardines ice_crea ,13.1868, 87.8788
+ice_crea , coke sardines chicken ,11.6883, 99.1453
+sardines , coke ice_crea chicken ,12.2877, 94.3089
+coke , sardines ice_crea chicken ,11.5884, 100
+ice_crea , coke sardines ,14.6853, 89.7959
+coke , sardines ice_crea ,15.0849, 87.4172
+bourbon , peppers corned_b cracker ,10.1898, 91.1765
+peppers , corned_b bourbon cracker ,11.1888, 83.0357
+baguette , peppers avocado ,12.5874, 80.9524
+cracker , peppers chicken bourbon ,10.0899, 93.0693
+chicken , peppers bourbon cracker ,11.6883, 80.3419
+peppers , chicken bourbon cracker ,11.2887, 83.1858
+bourbon , peppers chicken ,12.3876, 81.4516
+chicken , peppers corned_b cracker ,10.1898, 90.1961
+peppers , chicken corned_b cracker ,10.0899, 91.0891
+corned_b , peppers chicken bourbon ,10.0899, 91.0891
+apples , peppers avocado baguette ,10.1898, 90.1961
+peppers , apples avocado baguette ,11.1888, 82.1429
+sardines , peppers avocado baguette ,10.1898, 89.2157
+peppers , sardines avocado baguette ,10.0899, 90.099
+olives , turkey hering ,14.985, 81.3333
+olives , turkey bourbon ,13.986, 90.7143
+hering , turkey corned_b ,13.3866, 84.3284
+hering , turkey corned_b olives ,12.1878, 91.8033
+olives , turkey corned_b hering ,11.2887, 99.115
+corned_b , turkey olives hering ,12.1878, 91.8033
+olives , turkey corned_b ,13.3866, 91.0448
+olives , turkey ice_crea ,12.5874, 88.0952
+bourbon , turkey ice_crea olives ,11.0889, 86.4865
+turkey , ice_crea bourbon olives ,10.7892, 88.8889
+hering , turkey ham olives ,12.0879, 85.124
+olives , turkey ham hering ,10.5894, 97.1698
+ham , turkey olives hering ,12.1878, 84.4262
+turkey , ham olives hering ,12.0879, 85.124
+olives , turkey ham ,13.3866, 90.2985
+hering , turkey ham corned_b ,10.4895, 97.1429
+corned_b , turkey ham hering ,10.5894, 96.2264
+ham , turkey corned_b hering ,11.2887, 90.2655
+turkey , ham corned_b hering ,12.2877, 82.9268
+hering , turkey ham corned_b olives ,10.3896, 98.0769
+olives , turkey ham corned_b hering ,10.1898, 100
+corned_b , turkey ham olives hering ,10.2897, 99.0291
+ham , turkey corned_b olives hering ,11.1888, 91.0714
+turkey , ham corned_b olives hering ,11.7882, 86.4407
+olives , turkey ham corned_b ,10.4895, 99.0476
+corned_b , turkey ham olives ,12.0879, 85.9504
+ham , turkey corned_b olives ,12.1878, 85.2459
+turkey , ham corned_b olives ,12.2877, 84.5528
+olives , turkey coke ,11.8881, 88.2353
+bourbon , turkey coke olives ,10.4895, 90.4762
+turkey , coke bourbon olives ,10.8891, 87.156
+bourbon , turkey coke ,11.8881, 82.3529
+olives , turkey coke ice_crea ,10.5894, 89.6226
+ice_crea , turkey coke olives ,10.4895, 90.4762
+coke , turkey ice_crea olives ,11.0889, 85.5856
+turkey , coke ice_crea olives ,11.3886, 83.3333
+bourbon , turkey coke ice_crea ,10.5894, 90.566
+turkey , coke ice_crea bourbon ,11.6883, 82.0513
+ice_crea , turkey coke ,11.8881, 89.0756
+coke , turkey ice_crea ,12.5874, 84.127
+hering , steak corned_b ,13.2867, 84.9624
+hering , steak corned_b olives ,11.0889, 98.1982
+olives , steak corned_b hering ,11.2887, 96.4602
+corned_b , steak olives hering ,11.5884, 93.9655
+olives , steak corned_b ,13.2867, 83.4586
+hering , steak apples ,11.7882, 83.8983
+apples , steak olives hering ,11.5884, 83.6207
+steak , apples olives hering ,11.3886, 85.0877
+olives , steak apples ,11.7882, 83.8983
+hering , steak apples corned_b ,10.1898, 95.098
+apples , steak corned_b hering ,11.2887, 85.8407
+steak , apples corned_b hering ,11.2887, 85.8407
+apples , steak corned_b olives hering ,10.8891, 88.9908
+steak , apples corned_b olives hering ,10.8891, 88.9908
+olives , steak apples corned_b ,10.1898, 95.098
+apples , steak corned_b olives ,11.0889, 87.3874
+steak , apples corned_b olives ,11.5884, 83.6207
+corned_b , steak apples ,11.7882, 86.4407
