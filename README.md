@@ -1,8 +1,7 @@
 # Market Basket Analysis using Association Rule Mining
-
-Mining association rules and frequent item sets allows for the discovery of interesting and useful connections or relationships between items.
-
-In this project, Apriori and FP-growth algorithms are used to mine association rules from a sample retail market basket data set.
+- Programming Assignment for Elective Course CS 176 (Data Mining)
+- Mining association rules and frequent item sets allows for the discovery of interesting and useful connections or relationships between items.
+- Apriori and FP-growth algorithms are used to mine association rules from a sample retail market basket data set.
 The results are then evaluated based on several interest measures (lift, IR, Kulc).
 
 # Objective
@@ -18,11 +17,3 @@ measure as correlation measures.
 # Methodology
 A comprehensive description of the methodologies used is discussed in `report.pdf`.
 
-# Conclusions
-Generally, we would want to obtain high-confidence, high-correlation
-rules.  Using information, companies could
-benefit by sending coupons or discounts for a given item to customers who
-are likely to purchase that item. For rules with low imbalance ratio and
-high support, it may also be advantageous to
-place these items near each other in a supermarket setting since customers
-are likely to purchase them together
